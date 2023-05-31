@@ -1,0 +1,4 @@
+"start": "react-scripts start"
+to
+
+"start": "react-scripts --openssl-legacy-provider start"
